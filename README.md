@@ -1,1 +1,1 @@
-# ProiectFacultateIAasdasdasdasdad
+# Artificial-Intelligence-Faculty-Project
